@@ -120,6 +120,6 @@ This project is licensed under the **MIT License**.
 
 ## 🤝 Credits
 
-Made with ❤️ by **Aviral Tara**
+Made with ❤️ by **Priyanshu Singh**
 
 
